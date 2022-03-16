@@ -27,3 +27,5 @@ Her algoritma kağıt halinde yazılabilecek şekilde basit olmalıdır. Algorit
 
 Akış diyagramları, algoritmanın işleyişini neden-sonuç ilişkisini göstererek sırayla aktarılmasını sağlar.​
 ​
+
+<img width="452" alt="Screen Shot 2022-03-16 at 15 57 02" src="https://user-images.githubusercontent.com/48391281/158594856-1574418e-a583-4ede-83c6-da2e12157a5a.png">
