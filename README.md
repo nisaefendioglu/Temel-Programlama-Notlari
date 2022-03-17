@@ -9,4 +9,6 @@
 - [Kodlama Standartları](https://github.com/nisaefendioglu/Java-Notes/blob/master/Kodlama%20Standartlar%C4%B1%E2%80%8B.md)
 - [Değişkenler](https://github.com/nisaefendioglu/Java-Notes/blob/master/De%C4%9Fi%C5%9Fkenler.md)
 - [Veri Tipleri](https://github.com/nisaefendioglu/Java-Notes/blob/master/Veri%20Tipleri.md)
+- [Veri Tipleri](https://github.com/nisaefendioglu/Java-Notes/blob/master/Veri%20Tipleri.md)
+
 
