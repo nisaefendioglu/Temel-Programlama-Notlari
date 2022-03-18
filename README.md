@@ -10,5 +10,7 @@
 - [Değişkenler](https://github.com/nisaefendioglu/Java-Notes/blob/master/De%C4%9Fi%C5%9Fkenler.md)
 - [Veri Tipleri](https://github.com/nisaefendioglu/Java-Notes/blob/master/Veri%20Tipleri.md)
 - [Operatörler](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Operat%C3%B6rler.md)
+- [Karar Yapıları (If-Else / Switch Case)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Karar%20Yap%C4%B1lar%C4%B1%E2%80%8B.md)
+
 
 
