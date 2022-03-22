@@ -65,6 +65,84 @@ Java dilinde dizi kullanımı diğer dillere nazaran daha az risklidir; anlamı,
        dizi[0] = new String(«java»);​
 
        dizi[1] = new String («merhaba»);​
+       
+## DİZİLERDE SIRALAMA İŞLEMLERİ​
+Dizileri sıralamak için Arrays sınıfının sort() metodu kullanılır. ​
+
+Bu sınıfı kullanmak için projemiz içerisinde java.util.Arrays paketini import etmemiz gerekmektedir.​
+
+## Dizilerde Arama​
+Java’da diziler içerisinde bir elemanı aratmak isteyebiliriz. Bunun için kullanacağımız yöntemin adı ise binarySearch yöntemidir.​
+
+## BinarySearch Yöntemi ile Arama İşlemi ​
+Bu metod ile aratılan elemanın dizideki indeksi bulunur. Eğer eleman dizide yok ise bu işlem bize negatif bir değer döndürür.​
+
+Bu arama işleminde dizi içerisinde bir arama işlemi gerçekleştirmeden önce dizimizi sıralamamız gerekir. Sıralama işlemi gerçekleşmediği durumda arama işlemi de gerçekleşemez.​
+
+İşlem sonucunda bulduğu elemanın indisi, sıralama yaptıktan sonraki indise aittir.​
+
+## Dizileri Karşılaştırma İşlemleri​
+Herhangi bir yerde iki diziyi birbiriyle karşılaştırmamız gerekebilir. Dizileri karşılaştırabilmek için karşılaştırma işlemi yapacağımız iki dizinin de aynı tipte olması gerekmektedir.​
+
+Dizileri karşılaştırma işlemi için Arrays sınıfı içerisinde yer alan equals() metodu kullanılır.​
+
+## Dizilerde Eşitlik Kontrolü​
+Dizileri birbirleriyle karşılaştırarak eşitlik durumunda true, eşit olmama durumunda ise bizlere false sonucu döndürür.​
+
+# Çok Boyutlu Diziler (Arrays)​
+Java’da çok boyutlu array’ler, arraylerin array’i olarak tanımlanır. Başka bir deyişle, bileşenleri (öğeleri) array’lerden oluşan bir array’dir. Bir, iki, üç, dört, … boyutlu arr array’inin bildirimleri şöyle yapılır: ​
+
+       int[] arr =[1,2,3,4}; ​
+
+       int[][] arr = {}​
+
+       int[][][] arr ; ​
+
+       int[][][][] arr ;​
+
+Boyut sayısı için bir kısıt yoktur. Tek boyutlu array bir boyutlu matris, iki boyutlu array iki boyutlu bir matris, üç boyutlu array üç boyutlu bir matris, … gibidir. Örneğin, iki boyutlu a[][] array’inde soldaki [] array bileşeni matrisin satırlarını, sağdaki [] bileşeni ise matrisin kolonlarını belirler. Üç boyutlu array’de en en sağdaki [] bileşeni, iki boyutlu düzlemsel matrisin üzerine çıkılan dikmeler gibidir. Boyut sayısı istenildiği kadar artırabilmesine karşın, uygulamada çoğunlukla iki boyutlu array’ler ile karşılaşılır. ​
+
+Bir boyutlu array’ler için yaptığımız gibi, çok boyutlu array’lerin bileşenlerine de bildirim anında değer atayabiliriz. Aşağıdaki array, bileşenleri int tipi olan 2-boyutlu bir arraydir. ​
+
+       int[][] ikilSayı = { {1, 2}, {3, 4}, {5, 6} }; ​
+
+## Çok Boyutlu Dizi Tanımlamaları​
+       int [][] ikiliSayi = {{1,2}, {3, 4}, {5, 6}};​
+
+       int [][] dizi = new int [2][2];​
+
+       dizi[0][0] = 1;​
+
+       dizi[0][1] = 1;​
+
+       dizi[1][0] = 1;​
+
+       dizi[1][1] = 1;​
+
+       int [][] ikiliSayi = {{1,2}, {3, 4}, {5, 6}};​
+
+       int [][] dizi = new int [2][2];​
+
+       dizi[0][0] = 1;​
+
+       dizi[0][1] = 1;​
+  
+       dizi[1][0] = 1;​
+
+       dizi[1][1] = 1;​
+
+## Çok Boyutlu Dizi Elemanlarına Erişim​
+Çok boyutlu dizilere erişim, tek boyutlu dizilere erişime benzer yapıda bulunmaktadır. Köşeli parantezler içerisine indeksler yazılarak erişim sağlanır.​
+
+       int dizi[][] = {{1,33}, {5,88}};​
+
+       System.out.println(dizi[1][1]);​
+
+## toString() metodu​
+Dizileri string ifadeye çevirerek tüm diziyi köşeli parantezler arasında ekrana yazdırmamızı sağlayan metoddur. Tek boyutlu dizilerde kullanılır.​
+
+## Çok Boyutlu Dizileri Listeleme​
+Çok boyutlu dizileri listeleme, tıpkı tek boyutlu dizilerde olduğu gibi yapılmaktadır.​
 
 [Dizi örnekleri, ve çözümleri için tıklayınız.](https://github.com/nisaefendioglu/Java-Tutorial/tree/main/Hafta%204)
 
