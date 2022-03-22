@@ -12,6 +12,7 @@
 - [Operatörler](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Operat%C3%B6rler.md)
 - [Karar Yapıları (If-Else / Switch Case)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Karar%20Yap%C4%B1lar%C4%B1%E2%80%8B.md)
 - [Döngüler (While / Do-While / For)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/D%C3%B6ng%C3%BCler.md)
+- [Diziler](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Diziler.md)
 
 
 
