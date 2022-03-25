@@ -15,6 +15,7 @@
 - [Diziler](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Diziler.md)
 - [Object Sınıfı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Object%20S%C4%B1n%C4%B1f%C4%B1.md)
 - [Metod Yapıları](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Metod%20Yap%C4%B1lar%C4%B1%E2%80%8B.md)
+- [Scanner Sınıfı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Scanner%20S%C4%B1n%C4%B1f%C4%B1%E2%80%8B.md)
 
 
 
