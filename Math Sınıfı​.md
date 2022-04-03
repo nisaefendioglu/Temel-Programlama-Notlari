@@ -28,3 +28,4 @@ Max(x,y) ve Min(x,y) büyük ve küçük değer için kullanılır.​
 
 Random() : Rastgele sayı üretmek için kullanılır.​
 
+[Math Sınıfı, ve çözümleri için tıklayınız.](https://github.com/nisaefendioglu/Java-Tutorial/tree/main/Hafta%205)
