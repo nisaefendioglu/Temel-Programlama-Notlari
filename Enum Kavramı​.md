@@ -16,6 +16,8 @@ Diziye benzeyen kısmı, enum elemanlarının da indisleri vardır ve dizilerde 
 
 Enum elemanının indisini öğrenmek için ordinal() metodundan yararlanırız.​
 
+https://github.com/nisaefendioglu/Java-Tutorial/blob/main/Hafta%207/ordinalMetodu/src/ordinalmetodu/OrdinalMetodu.java
+
 Örnek : 
 
 Aylar adında enum metodu oluşturun ve içerisine ayları aktarın. Ardından şubat ayının indisini aldırarak switch case ile alınan indisin hangi aya denk geldiğini yazdıran programı yazınız.​
