@@ -1,7 +1,7 @@
 <details>
-  <summary>Java-Notes-TR ♥️</summary>
+  <summary>
   
-  # Java-Notes-TR ♥️
+  # Java-Notes-TR ♥️</summary>
 
 - [Programlama Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Programlama%20Nedir%3F.md) 🤓
 - [Yazılım Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Yaz%C4%B1l%C4%B1m%20Nedir%3F.md) 🤷🏻‍♀️
