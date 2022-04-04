@@ -30,5 +30,13 @@
 - [Polymorphism (Çok Biçimlilik)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Polymorphism.md) ⏰
 
 
+# QUIZ ♥️
+- [Quiz 1](https://docs.google.com/forms/d/1G1QQzrgFOWlq4fAnMB5Xq0PtuqlWryxmmO6d63qAfOc) 👶🏻
+- [Quiz 2](https://docs.google.com/forms/d/11Z_FaeICDHJds24A5ft08-Aa9QQmQWmKChQguUSNC7Y) 👧🏻👦🏻
+- [Quiz 3](https://docs.google.com/forms/d/1wf0DRKAu6BjoVO006Zz2YoFHfzpMBmfQH5Lm9hsz68E) 👩🏻👨🏻
+- [Quiz 4](https://docs.google.com/forms/d/1K0jJ9CGJBBazGjcte-YyLXqMbMfv6AkVQOQGPaxl7gw) 👩🏻‍🦳👨🏻‍🦳
+- [Quiz 5](https://docs.google.com/forms/d/1g0scs1YgGjgFhk7hVk1PB_QKBYmbYrhNqDOP-uIxuQ0) 👵🏻👴🏻
+
+
 
 
