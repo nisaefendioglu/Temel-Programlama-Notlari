@@ -1,4 +1,7 @@
-# Java-Notes-TR ♥️
+<details>
+  <summary>Java-Notes-TR ♥️</summary>
+  
+  # Java-Notes-TR ♥️
 
 - [Programlama Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Programlama%20Nedir%3F.md) 🤓
 - [Yazılım Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Yaz%C4%B1l%C4%B1m%20Nedir%3F.md) 🤷🏻‍♀️
@@ -28,8 +31,11 @@
 - [Abstract (Soyut Sınıflar)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Abstract%20(Soyut%20S%C4%B1n%C4%B1flar).md) 💫
 - [Interface (Arayüzler)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Interface%20(Aray%C3%BCzler).md) 🏞
 - [Polymorphism (Çok Biçimlilik)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Polymorphism.md) ⏰
+</details>
 
-
+<details>
+  <summary>QUIZ ♥️</summary>
+  
 # QUIZ ♥️
 - [Quiz 1](https://docs.google.com/forms/d/1G1QQzrgFOWlq4fAnMB5Xq0PtuqlWryxmmO6d63qAfOc) 👶🏻
 - [Quiz 2](https://docs.google.com/forms/d/11Z_FaeICDHJds24A5ft08-Aa9QQmQWmKChQguUSNC7Y) 👧🏻👦🏻
