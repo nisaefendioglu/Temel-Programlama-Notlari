@@ -18,7 +18,7 @@
 - [Metod Yapıları](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Metod%20Yap%C4%B1lar%C4%B1%E2%80%8B.md) 👻
 - [Scanner Sınıfı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Scanner%20S%C4%B1n%C4%B1f%C4%B1%E2%80%8B.md) 🗣📲
 - [Math Sınıfı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Math%20S%C4%B1n%C4%B1f%C4%B1%E2%80%8B.md) 🪡
-- [Java Nesne Yönelimli Programlama Temel Kavramlar](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Nesne%20Y%C3%B6nelimli%20Programlama%E2%80%8B%20Giri%C5%9F.md) 🐬
+- [Java Nesne Yönelimli Programlama Temel Kavramlar (Nesne ve Sınıf Yapısı, Constructor, OOP, Abstraction, Encapsülation, Polymorphism, Class Ve Object(Nesne) İlişkisi)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Nesne%20Y%C3%B6nelimli%20Programlama%E2%80%8B%20Giri%C5%9F.md) 🐬
 - [Paket Yapısı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Paket%20Yap%C4%B1s%C4%B1%20Nedir%3F%E2%80%8B.md) 📦
 - [Kapsülleme - Encapsulation](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Kaps%C3%BClleme.md) 🦠
 - [Erişim Belirleyiciler (Access Modifiers)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Eri%C5%9Fim%20Belirleyiciler%20(Access%20Modifiers)%E2%80%8B.md) 🔑
