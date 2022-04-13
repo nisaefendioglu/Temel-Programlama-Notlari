@@ -31,6 +31,8 @@
 - [Interface (Arayüzler)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Interface%20(Aray%C3%BCzler).md) 🏞
 - [Polymorphism (Çok Biçimlilik)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Polymorphism.md) ⏰
 - [Temel Kavramlar (Spring - Spring Boot - Hibernate - Java EE - Elastic Search Nedir?)](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Spring-Spring%20Boot-Hibernate-Java%20EE-Elastic%20Search.md) 🪐
+- [Dependency Injection](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Dependency%20Injection.md) 🧩
+
 
   
 # QUIZ 🤔
