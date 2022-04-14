@@ -8,6 +8,7 @@
 - [Algoritma](https://github.com/nisaefendioglu/Java-Notes/blob/master/Algoritma%E2%80%8B.md) 🧬
 - [JAVA](https://github.com/nisaefendioglu/Java-Notes/blob/master/JAVA.md) 🦾
 - [Kodlama Standartları](https://github.com/nisaefendioglu/Java-Notes/blob/master/Kodlama%20Standartlar%C4%B1%E2%80%8B.md) ✍🏻
+- [Mimari Yapılar MVC MVVM MVP VIPER Nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/MVP%2C%20MVC%2C%20MVVM.md) 🥇
 - [Değişkenler](https://github.com/nisaefendioglu/Java-Notes/blob/master/De%C4%9Fi%C5%9Fkenler.md) 🦋
 - [Veri Tipleri](https://github.com/nisaefendioglu/Java-Notes/blob/master/Veri%20Tipleri.md) 😎
 - [Operatörler](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Operat%C3%B6rler.md) ➕➖➗✖️
