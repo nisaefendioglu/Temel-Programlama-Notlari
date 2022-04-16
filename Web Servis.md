@@ -1,5 +1,5 @@
 ### Web Servis
-Verilerinizi web sayfanız dışında tüm cihazlara göndermek istediğinizde devreye Web Service kavramı girer. Web Service ile platform bağımsız tüm cihazlara veri aktarımı gerçekleştirilir.Facebook’da mesajlaşırken karşılıklı olarak mesajların hem web sayfasına hemde Facebook Messenger uygulamasına gelmesini Web Service sağlar. Messenger uygulaması, Android, IOS, Wİndows Phone işletim sistemli cihazlarda çalışması Web Service kavramının gücünü kanıtlamaktadır.
+Verilerinizi web sayfanız dışında tüm cihazlara göndermek istediğinizde devreye Web Service kavramı girer. Web Service ile platform bağımsız tüm cihazlara veri aktarımı gerçekleştirilir. Facebook’da mesajlaşırken karşılıklı olarak mesajların hem web sayfasına hemde Facebook Messenger uygulamasına gelmesini Web Service sağlar. Messenger uygulaması, Android, IOS, Wİndows Phone işletim sistemli cihazlarda çalışması Web Service kavramının gücünü kanıtlamaktadır.
 
 Kısaca Web servisler platform bağımsız olmak üzere bir çok uygulama, cihaz ya da nodeun birbiri ile iletişim kurmalarını sağlayan yapılardır.
 
