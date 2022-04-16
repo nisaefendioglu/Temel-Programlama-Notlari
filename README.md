@@ -32,6 +32,9 @@
 - [Interface (Arayüzler)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Interface%20(Aray%C3%BCzler).md) 🏞
 - [Polymorphism (Çok Biçimlilik)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Polymorphism.md) ⏰
 - [Temel Kavramlar (Spring - Spring Boot - Hibernate - Java EE - Elastic Search Nedir?)](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Spring-Spring%20Boot-Hibernate-Java%20EE-Elastic%20Search.md) 🪐
+- [Reaktif Programlama](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Reaktif%20Programlama.md) ♻️
+- [API Design](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/API%20Design.md) 💭
+- [Web Servis](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Web%20Servis.md) 🔄
 - [Dependency Injection](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Dependency%20Injection.md) 🧩
 - [Design Patterns](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Design%20Patterns.md) 🎯
 - [SOLID Prensipleri](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/SOLID%20Prensipleri.md) 🐍
