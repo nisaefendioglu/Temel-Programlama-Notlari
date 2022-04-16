@@ -36,6 +36,7 @@
 - [Design Patterns](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Design%20Patterns.md) 🎯
 - [SOLID Prensipleri](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/SOLID%20Prensipleri.md) 🐍
 - [CI / CD Nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/CI%20-%20CD.md) 🤖
+- [Agile nedir? Scrum nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Agile%20nedir%3F%20Scrum%20nedir%3F.md) 🤠
 
 
   
