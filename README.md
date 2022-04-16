@@ -1,5 +1,5 @@
 
-  # Java-Notes-TR ♥️
+  # Temel Programlama Notları ♥️
 
 - [Programlama Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Programlama%20Nedir%3F.md) 🤓
 - [Yazılım Nedir?](https://github.com/nisaefendioglu/Java-Notes/blob/master/Yaz%C4%B1l%C4%B1m%20Nedir%3F.md) 🤷🏻‍♀️
@@ -35,6 +35,7 @@
 - [Dependency Injection](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Dependency%20Injection.md) 🧩
 - [Design Patterns](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Design%20Patterns.md) 🎯
 - [SOLID Prensipleri](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/SOLID%20Prensipleri.md) 🐍
+- [CI / CD Nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/CI%20-%20CD.md) 🤖
 
 
   
