@@ -17,7 +17,7 @@ Bu konu üzerine ayrı bir yazı hedefliyorum ancak kısaca özetlemek için şu
 
 Mobil dünya için ön plana çıkan  CI/CD ürünleri;
 
-- [Appcircle](https://appcircle.io/)
+- Appcircle
 - Bitrise
 - Codemagic
 - VS App Center
