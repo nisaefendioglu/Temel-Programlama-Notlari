@@ -41,8 +41,6 @@
 - [CI / CD Nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/CI%20-%20CD.md) 🤖
 - [Agile nedir? Scrum nedir?](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Agile%20nedir%3F%20Scrum%20nedir%3F.md) 🤠
 
-
-  
 # QUIZ 🤔
 - [Quiz 1](https://docs.google.com/forms/d/1G1QQzrgFOWlq4fAnMB5Xq0PtuqlWryxmmO6d63qAfOc) 👶🏻
 - [Quiz 2](https://docs.google.com/forms/d/11Z_FaeICDHJds24A5ft08-Aa9QQmQWmKChQguUSNC7Y) 👧🏻|👦🏻
