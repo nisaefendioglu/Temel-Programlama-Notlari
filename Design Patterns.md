@@ -21,7 +21,7 @@ Nesnelerin nasl yaratılacağı hakkında öneriler sunar.
 
 Sınıflar arasındaki ilişkileri belirleme önerileri sunar, Nasıl türetilmeli, hangi nesneleri içermeli, sınıflar birbirlerini nasıl bağlı olmalı gibi soruların cevaplarını yanıtlar.
 
-- [Adapter (Adaptör)](https://www.rizagunes.com/adapter-adaptor-design-pattern)
+- Adapter (Adaptör)
 - Bridge (Köprü)
 - Composite (Ağaç Yapısı)
 - Decorator (Dekorasyon)
