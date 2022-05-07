@@ -2,7 +2,7 @@
 
 **Tasarım desenleri, sıkça karşılaşılan ve birbirine benzeyen sorunları çözmek için geliştirilmiş esnek kalıplardır.**
 
-Nesne yönelimli programlamada, **programlama dili** gözetmeksizin; sınıf ve nesneler arasındaki ilişkilerin en iyi şekilde nasıl olmaları gerektiğini açıklayan yöntemlerdir. Kısaca aklın yolu bir diyerek uyguladığımız hazır çözümlerdir.
+**Programlama dili** gözetmeksizin; sınıf ve nesneler arasındaki ilişkilerin en iyi şekilde nasıl olmaları gerektiğini açıklayan yöntemlerdir. Kısaca aklın yolu bir diyerek uyguladığımız hazır çözümlerdir.
 
 **Tasarım desenlerini 3 ana başlıkta değerlendiririz;**
 
