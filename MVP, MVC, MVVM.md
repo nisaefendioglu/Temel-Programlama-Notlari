@@ -1,14 +1,14 @@
 ### MVP, MVC, MVVM
 ### **Mimari Yapılar MVC MVVM MVP VIPER Nedir?**
 
-Bu bölümde mimari yapılar MVC, MVP, MVVM ve VIPER ı inceleyeceğiz. Öncelikle neden bir mimari yapıya ihtiyaç duyarız. Mimari yapıları açıklamadan önce buna bir göz atalım.
+Bu bölümde mimari yapılar MVC, MVP, MVVM ve VIPER ı inceleyeceğiz. Öncelikle neden bir mimari yapıya ihtiyaç duyarız?
+
+Mimari yapıları açıklamadan önce buna bir göz atalım.
 
 1. Teste dayalı uygulama geliştirmeyi kolaylaştırır.
 2. Yazma ve okuma için kodları basitleştirir.
 3. Katmanlı yapısı sayesinde karışıklığı engeller.
-4. Uygulama güvenliği konusunda büyük artıları vardır. Dışarıdan ulaşan herkese View kısmı gösterilir.
-5. Büyük projelerde, projenin denetimini ve yönetimini kolaylaştırır.
-6. Front-end ve Back-end kodları birbirinden bağımsız bir şekilde değiştirilebilir.
+4. Tüm katmanlar arasındaki bağımlılığı azaltmaya yardımcı olur.
 
 ### **Mimari Yapılar – MVC**
 
