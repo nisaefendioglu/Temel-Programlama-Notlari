@@ -48,6 +48,9 @@
 - [Quiz 4](https://docs.google.com/forms/d/1K0jJ9CGJBBazGjcte-YyLXqMbMfv6AkVQOQGPaxl7gw) 👩🏻‍🦳|👨🏻‍🦳
 - [Quiz 5](https://docs.google.com/forms/d/1g0scs1YgGjgFhk7hVk1PB_QKBYmbYrhNqDOP-uIxuQ0) 👵🏻|👴🏻
 
+## Yazar ✍🏻
+👩🏻‍💼 Nisa Efendioğlu
 
+## LISANS
 
-
+MIT lisansı altında lisanslanmıştır, ayrıntılar için [LİSANS](LICENSE) bölümüne bakın.
