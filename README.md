@@ -26,6 +26,7 @@
 - [Erişim Belirleyiciler (Access Modifiers)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Eri%C5%9Fim%20Belirleyiciler%20(Access%20Modifiers)%E2%80%8B.md) 🔑
 - [Getter ve Setter Metodlar](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Getter%20ve%20Setter%20Metodlar%E2%80%8B.md) 🔗
 - [Enum Kavramı](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Enum%20Kavram%C4%B1%E2%80%8B.md) 📍
+- [Lambda & Higher-Order Fonksiyonlar](https://github.com/nisaefendioglu/Temel-Programlama-Notlari/blob/master/Lambda%20%26%20Higher-Order%20Fonksiyonlar.md) ✂️
 - [Kalıtım (Inheritance)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Kal%C4%B1t%C4%B1m%20(Inheritance).md) 🤱🏻
 - [Superclass ve Subclass](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Superclass%20ve%20Subclass%E2%80%8B.md) 👑
 - [Abstract (Soyut Sınıflar)](https://github.com/nisaefendioglu/Java-Notes-TR/blob/master/Abstract%20(Soyut%20S%C4%B1n%C4%B1flar).md) 💫
