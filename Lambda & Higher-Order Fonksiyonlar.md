@@ -7,7 +7,7 @@ Lambda fonksiyonunu kod olarak nasıl yazarız ona bakalım.
 
 Lambda fonksiyonu,
 
-**(Tür, Tür, Tür) -> Geri Dönüş Türü** şeklinde tanımlanır.
+**(Parameter1, Parameter2) -> { Code Block }** şeklinde tanımlanır.
 
 Örneğin lambda kullanmadan kullanıcı adını alan bir kod parçacığı oluşturalım.
 ```
